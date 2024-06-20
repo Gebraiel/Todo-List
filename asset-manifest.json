@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Todo-List/static/css/main.5de56939.css",
+    "main.js": "/Todo-List/static/js/main.1e2e0b4a.js",
+    "static/media/bg-desktop-light.jpg": "/Todo-List/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/Todo-List/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/Todo-List/index.html",
+    "static/media/icon-check.svg": "/Todo-List/static/media/icon-check.a8fb15d0278c8e312df5.svg",
+    "main.5de56939.css.map": "/Todo-List/static/css/main.5de56939.css.map",
+    "main.1e2e0b4a.js.map": "/Todo-List/static/js/main.1e2e0b4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5de56939.css",
+    "static/js/main.1e2e0b4a.js"
+  ]
+}
